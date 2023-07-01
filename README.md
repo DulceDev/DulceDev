@@ -21,4 +21,4 @@ const Dulce = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-<p><em>First year student, looking to broaden my knowledge and acquire new skills. 😎</em></p>
+<p><em>First year student, looking to broaden my knowledge and acquire new skills. 😎</br></em></p>
