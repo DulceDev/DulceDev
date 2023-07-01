@@ -4,7 +4,7 @@
 </em></p>
 
 ```javascript
-const anmol = {
+const Dulce = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
@@ -21,3 +21,4 @@ const anmol = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+<p><em>First year student, looking to broaden my knowledge and acquire new skills. 😎</em></p>
