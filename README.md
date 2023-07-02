@@ -6,6 +6,7 @@
 ```javascript
 const Dulce = {
     pronouns: "He" | "Him",
+    realName: "Valentin Lanus",
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
         frontEnd: {
